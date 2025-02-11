@@ -1,2 +1,2 @@
 # Denkon2.github.io
-# Test
+# <a href="/tusur/dist/">Test</a>
